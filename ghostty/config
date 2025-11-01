@@ -1,0 +1,10 @@
+theme = catppuccin frappe
+font-size = 20
+
+font-family = jetbrains-mono
+custom-shader = ~/.config/ghostty/shaders/cursor_warp.glsl
+
+window-padding-x = 15
+window-padding-y = 10
+
+# Disable last login message
